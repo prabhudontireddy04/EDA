@@ -127,7 +127,7 @@ The EDA addresses key business questions to understand layoffs trends:
 
 ## Author
 
-**Veera Prabhu Kumar Reddy**
+**Veera Prabhu Kumar Reddy Dontireddy**
 
 * SQL & Data Analysis enthusiast
 * GitHub: [https://github.com/prabhudontireddy04/EDA]
